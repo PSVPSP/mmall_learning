@@ -1,1 +1,17 @@
+#maven ignore
 /target/
+
+#eclipse ignore
+.settings/
+.classpath
+.project
+
+#temp ignore
+*.cache
+*.diff
+*.patch
+*.tmp
+
+#system ignore
+.DS_Store
+Thumbs.db
